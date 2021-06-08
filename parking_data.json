@@ -1,0 +1,82 @@
+[
+  {
+    "parkingId": 1,
+    "name": "Pondok Indah Mall",
+    "latitude": -6.26531,
+    "longitude": 106.78448,
+    "rating_count": 50,
+    "rating": 4
+  },
+  {
+    "parkingId": 2,
+    "name": "Senayan City",
+    "latitude": -6.26553,
+    "longitude": 106.78215,
+    "rating_count": 75,
+    "rating": 4.5
+  },
+  {
+    "parkingId": 3,
+    "name": "AEON Jakarta",
+    "latitude": -6.1727,
+    "longitude": 106.95155,
+    "rating_count": 100,
+    "rating": 4
+  },
+  {
+    "parkingId": 4,
+    "name": "Gandaria City",
+    "latitude": -6.24416,
+    "longitude": 106.78355,
+    "rating_count": 50,
+    "rating": 4.5
+  },
+  {
+    "parkingId": 5,
+    "name": "Grand Indonesia",
+    "latitude": -6.19518,
+    "longitude": 106.81825,
+    "rating_count": 150,
+    "rating": 3.5
+  },
+  {
+    "parkingId": 6,
+    "name": "Kota Casablanca",
+    "latitude": -6.22331,
+    "longitude": 106.84047,
+    "rating_count": 100,
+    "rating": 4
+  },
+  {
+    "parkingId": 7,
+    "name": "Mall Taman Anggrek",
+    "latitude": -6.17837,
+    "longitude": 106.78981,
+    "rating_count": 100,
+    "rating": 4.5
+  },
+  {
+    "parkingId": 8,
+    "name": "Cilandak Town Square",
+    "latitude": -6.29147,
+    "longitude": 106.79749,
+    "rating_count": 150,
+    "rating": 4
+  },
+  {
+    "parkingId": 9,
+    "name": "Mall of Indonesia",
+    "latitude": -6.15145,
+    "longitude": 106.88971,
+    "rating_count": 50,
+    "rating": 3.5
+  },
+  {
+    "parkingId": 10,
+    "name": "Puri Indah Mall",
+    "latitude": -6.18821,
+    "longitude": 106.73201,
+    "rating_count": 75,
+    "rating": 4
+  }
+]
